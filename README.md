@@ -1,7 +1,9 @@
 # IngridCastro_AI_DV_-ICA
+
 CA Integrated for AI and Data Visualisation.
 
 Porfessors: David McQuaid and Sam Weiss
+
 Student: Ingrid Menezes Castro 2020341
 
 ----------------
