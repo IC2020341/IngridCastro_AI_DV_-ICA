@@ -9,6 +9,7 @@ Student: Ingrid Menezes Castro 2020341
 ----------------
 
 References
+
 AI
 
 Ankit15697 (2023) Frozenset() in Python, GeeksforGeeks. Available at: https://www.geeksforgeeks.org/frozenset-in-python/ (Accessed: 05 January 2024). 
@@ -34,6 +35,7 @@ Simic, M. (2022) How to solve constraint satisfaction problems, Baeldung on Comp
 
 
 Visualisation
+
 Matplotlib (2024) Matplotlib User Guide, Using Matplotlib - Matplotlib 3.8.2 documentation. Available at: https://matplotlib.org/stable/users/index (Accessed: 08 January 2024). 
 
 Plotly (2024) Plotly Open Source Graphing Library for Python, Plotly Python Graphing Library. Available at: https://plotly.com/python/ (Accessed: 08 January 2024). 
